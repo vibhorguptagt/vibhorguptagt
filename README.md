@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/vibhorguptagt/vibhorguptagt/20fb447d4566b969c9aee0132303fc0551dea0c3/assets/profile-banner.svg" alt="Vibhor Gupta profile text art with a blue-to-purple gradient and animated shimmer" width="100%">
+<img src="https://raw.githubusercontent.com/vibhorguptagt/vibhorguptagt/a00ae9c042267772951091a2c3150145c7870873/assets/profile-banner.svg" alt="Vibhor Gupta text art with an animated Frosted Blue and Blue Slate gradient" width="100%">
